@@ -1,0 +1,2 @@
+# FilterOpenProjectsAddon
+citavi addon
