@@ -2,6 +2,8 @@
 
 This add-on adds a the possibility to Citavis open project dialog to filter the list of projects by name.
 
+![Test](/assets/screenshot.png)
+
 ## Releases
 
 The compiled library can be found under [releases](./../../releases) as an archive.
